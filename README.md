@@ -2,6 +2,8 @@
 
 I'm Michael, a fourth year computer science student at the University of British Columbia! Feel free to peruse my repositories.
 
+- I'm currently working on a card based game in C++! Hopefully I'll upload it here when it's done!
+
 <!--
 **michlam/michlam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
