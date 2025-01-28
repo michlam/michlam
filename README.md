@@ -1,6 +1,6 @@
 ### Hello There 👋
 
-I'm Michael, a fourth year computer science student at the University of British Columbia! Feel free to peruse my repositories.
+I'm Michael, an aspiring software engineer, game development hobbyist, and a soon-to-be computer science graduate from the University of British Columbia! Feel free to peruse my repositories.
 
 <!--
 **michlam/michlam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
